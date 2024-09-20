@@ -64,13 +64,12 @@ This project was developed as part of the **Object-Oriented Programming with Jav
 ## 📷 Preview
 - Here's a snapshot of the console interface with a sample board:
   ```css
-    a b c d e f g h
-  8 - - - - - - - - 
-  7 - - - - - - - - 
+  8 R N B Q K B N R 
+  7 P P P P P P P P
   6 - - - - - - - - 
   5 - - - - - - - - 
   4 - - - - - - - - 
   3 - - - - - - - - 
-  2 - - - - - - - - 
-  1 - - - - - - - - 
-
+  2 P P P P P P P P
+  1 R N B Q K B N R
+    a b c d e f g h
